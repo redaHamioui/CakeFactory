@@ -1,0 +1,10 @@
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\bin\Debug\netcoreapp2.1\CakeMachine.Dataflow.deps.json
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\bin\Debug\netcoreapp2.1\CakeMachine.Dataflow.dll
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\bin\Debug\netcoreapp2.1\CakeMachine.Dataflow.pdb
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.csprojAssemblyReference.cache
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.AssemblyInfoInputs.cache
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.AssemblyInfo.cs
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.csproj.CoreCompileInputs.cache
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.dll
+C:\Users\drjunks\source\repos\CakeMachine.Dataflow\obj\Debug\netcoreapp2.1\CakeMachine.Dataflow.pdb
